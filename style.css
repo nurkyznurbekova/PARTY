@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+background-color: aquamarine; 
+height: 120px; 
+font-size: 20px;  
+}
+
+header img{
+    width: 90px;
+    height: 90px;
+}
+
+header img{
+    padding: 2px;
+    margin: 2px;
+}
+
+header a{
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 20px;
+    color: black;
+    padding: 5px;
+    background-color: cadetblue;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: cadetblue;
+    border:10px solid cyan;
+}
+
+footer{
+    background-color: aquamarine;
+    color: darkcyan;
+}
+
+footer p {
+    font-size: 25px;
+    background-color:cornsilk ;
+}
+
+nav a {
+border: 3px solid turquoise;
+background-color: royalblue;
+text-decoration: none;
+color: palegoldenrod;
+border-radius: 10px;
+margin: 10px;
+padding: 10px;
+} 
+
+.popular {
+    background-color: palegoldenrod;
+    color: royalblue;
+}
+
+nav {margin: 25px;}
+
+.icon{
+    background-color: white;
+    border: 5px solid royalblue;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2 {
+    color: darkslategray;
+}
+
+main{
+    margin: 10px;
+}
+
+main a{
+    background-color: blanchedalmond;
+    border: 5px solid royalblue;
+    border-radius: 10px;
+}
